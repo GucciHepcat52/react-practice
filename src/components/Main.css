@@ -1,6 +1,7 @@
 .main-div {
   padding: 10px;
   color: white;
+  margin-left: 10px;
 }
 
 ul {
@@ -13,4 +14,8 @@ ul li::before {
   display: inline-block;
   width: 1em;
   margin-left: -1em;
+}
+
+li {
+  line-height: 30px;
 }
